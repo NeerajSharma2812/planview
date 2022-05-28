@@ -1,4 +1,8 @@
 intial file
 second content
+<<<<<<< HEAD
 adding content in feature a
 adding content in feature a
+=======
+adding content in feature b
+>>>>>>> featureb
